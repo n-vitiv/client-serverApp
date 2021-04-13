@@ -1,2 +1,2 @@
-# Nazarii Vitiv
+# Client/server Application
 
